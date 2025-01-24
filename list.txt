@@ -1,2 +1,3 @@
 *://*.divinemaids.com/*
 *://*.anime-girl.com/*
+*://*.en.ac-illust.com/*
