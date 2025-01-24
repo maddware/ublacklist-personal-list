@@ -2,3 +2,5 @@
 *://*.divinemaids.com/*
 *://*.anime-girl.com/*
 *://*.posters.es/*
+*://*.facebook.com/*
+*://*.europosters.ie/*
