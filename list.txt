@@ -1,3 +1,4 @@
 #personal
 *://*.divinemaids.com/*
 *://*.anime-girl.com/*
+*://*.posters.es/*
