@@ -4,3 +4,4 @@
 *://*.posters.es/*
 *://*.facebook.com/*
 *://*.europosters.ie/*
+*://*.storybooks.app/*
