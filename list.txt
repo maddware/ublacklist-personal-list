@@ -6,3 +6,4 @@
 *://*.europosters.ie/*
 *://*.storybooks.app/*
 *://*.whatnationaldayisit.com/*
+*://*.mimi-panda.com/*
