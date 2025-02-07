@@ -5,3 +5,4 @@
 *://*.facebook.com/*
 *://*.europosters.ie/*
 *://*.storybooks.app/*
+*://*.whatnationaldayisit.com/*
