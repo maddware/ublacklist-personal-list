@@ -7,3 +7,4 @@
 *://*.storybooks.app/*
 *://*.whatnationaldayisit.com/*
 *://*.mimi-panda.com/*
+*://*.sellmmar.best/*
